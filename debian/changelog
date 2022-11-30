@@ -1,3 +1,9 @@
+pinball-table-gnu (0.0.20200601-3) UNRELEASED; urgency=medium
+
+  * Use standard way of specifying Vcs-Git branch name.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Wed, 30 Nov 2022 13:09:00 +0000
+
 pinball-table-gnu (0.0.20200601-2) unstable; urgency=medium
 
   * Team upload
